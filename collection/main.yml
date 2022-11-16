@@ -12,3 +12,4 @@
     - name: "Verify yellow is not a form of blue."
       assert:
         that: "'yellow' is not local.colors.blue"
+        that: "'yellow' is not local.colors.blue"
